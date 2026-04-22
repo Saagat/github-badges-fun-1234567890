@@ -20,16 +20,32 @@
 
 Welcome to the **Stellar Dev Suite**. This repository is more than just a code collection; it's a curated environment designed to showcase high-level GitHub achievements and modern engineering practices. Built with a focus on **transparency**, **automation**, and **aesthetic excellence**.
 
-## 🏆 Achievements Showcase
+## 🏆 Achievements Gallery
 
-This project proudly hosts several rare GitHub achievements, unlocked through rigorous community engagement and code collaboration.
+Inspired by top-tier achievement repositories, this section highlights the milestones achieved by this project.
 
-| Achievement | Tier | Description |
-| :--- | :--- | :--- |
-| **Pull Shark** | 🥇 Gold | Merged 50+ pull requests into the repository. |
-| **Pair Extraordinaire** | 🥈 Silver | Collaborated with multiple co-authors on complex commits. |
-| **Quickdraw** | ⚡ Unlocked | Merged pull requests within minutes of creation. |
-| **Heart on Sleeve** | ❤️ Unlocked | Active engagement with community feedback and reactions. |
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-gold.png" width="100px;" alt="Pull Shark"/><br /><sub><b>Pull Shark (Gold)</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pair-extraordinaire-gold.png" width="100px;" alt="Pair Extraordinaire"/><br /><sub><b>Pair Extraordinaire</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/quickdraw-default.png" width="100px;" alt="Quickdraw"/><br /><sub><b>Quickdraw</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/heart-on-your-sleeve-default.png" width="100px;" alt="Heart on Sleeve"/><br /><sub><b>Heart on Sleeve</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/arctic-code-vault-contributor-default.png" width="100px;" alt="Vault Contributor"/><br /><sub><b>Legacy Vault</b></sub></td>
+    <td align="center"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="100px;" alt="Galaxy Brain"/><br /><sub><b>Galaxy Brain (Soon)</b></sub></td>
+  </tr>
+</table>
+
+## 📊 Milestone Tracker
+
+| Achievement | Status | Requirement |
+| :--- | :---: | :--- |
+| **Pull Shark** | ✅ | Merge 50 Pull Requests |
+| **Pair Extraordinaire** | ✅ | Collaborate on commits |
+| **Quickdraw** | ✅ | Rapid Merge Action |
+| **Galaxy Brain** | 🚀 | Answer in Discussions |
+| **YOLO** | 🔜 | Merge without review (Risky!) |
 
 ## 🛠️ Project Structure
 
