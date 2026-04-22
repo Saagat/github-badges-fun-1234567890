@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Saagat/github-badges-fun-1234567890?style=for-the-badge&color=blue" alt="License">
-  <img src="https://img.shields.io/github/stars/Saagat/github-badges-fun-1234567890?style=for-the-badge&color=gold" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/Saagat/github-badges-fun-1234567890?style=for-the-badge&color=green" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/nathandev-7/github-badges-fun-1234567890?style=for-the-badge&color=blue" alt="License">
+  <img src="https://img.shields.io/github/stars/nathandev-7/github-badges-fun-1234567890?style=for-the-badge&color=gold" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/nathandev-7/github-badges-fun-1234567890?style=for-the-badge&color=green" alt="Last Commit">
 </p>
 
 ---
