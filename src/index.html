@@ -8,14 +8,38 @@
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="glass-container">
-        <header>
-            <div class="logo">✨</div>
-            <h1>Stellar Dev Suite</h1>
-            <p>Advanced Achievement Dashboard</p>
-        </header>
+    <nav class="glass-nav">
+        <div class="nav-content">
+            <div class="nav-logo">✨ Stellar Dev Suite</div>
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#achievements">Achievements</a>
+                <a href="#about">About</a>
+            </div>
+        </div>
+    </nav>
+
+    <section id="home" class="hero-section">
+        <div class="hero-content">
+            <div class="badge-pill">Professional Achievement Suite</div>
+            <h1>Empowering the Next Generation of <span class="gradient-text">Stellar Developers</span></h1>
+            <p>Elevate your GitHub presence with precision-crafted badges, premium dashboards, and elite product development insights. Built for creators who demand excellence.</p>
+            <div class="hero-btns">
+                <a href="#achievements" class="btn-primary">Explore Suite</a>
+                <a href="https://github.com/nathandev-7/github-badges-fun-1234567890" target="_blank" class="btn-secondary">View Source</a>
+            </div>
+        </div>
+        <div class="cosmic-circle-1"></div>
+        <div class="cosmic-circle-2"></div>
+    </section>
+
+    <section id="achievements" class="stats-container">
+        <div class="section-header">
+            <h2>Core Achievements & Modules</h2>
+            <p>A comprehensive overview of reached milestones and active development tools.</p>
+        </div>
         
-        <main class="stats-grid">
+        <div class="stats-grid">
             <div class="card glass">
                 <div class="badge-image"><img src="../assets/badges/pull-shark-gold.png" alt="Pull Shark"></div>
                 <h3>Pull Shark</h3>
@@ -58,11 +82,39 @@
                 <p>Curated Design Works</p>
                 <div class="progress-bar"><div class="fill" style="width: 90%;"></div></div>
             </div>
-        </main>
+        </div>
+    </section>
 
-        <footer class="glass">
-            <p>&copy; 2026 Stellar Dev Suite | <a href="https://github.com/nathandev-7/github-badges-fun-1234567890" target="_blank" style="color: #00d2ff; text-decoration: none; font-weight: 600;">View on GitHub</a></p>
-        </footer>
-    </div>
+    <section id="about" class="about-section">
+        <div class="glass-card about-card">
+            <h2>The Stellar Mission</h2>
+            <p>The Stellar Dev Suite is more than a repository; it's a testament to the power of open-source collaboration and high-end product thinking. We believe that developer tools should be as beautiful as they are functional.</p>
+            <div class="stats-mini">
+                <div class="mini-stat">
+                    <span>7+</span>
+                    <p>Modules</p>
+                </div>
+                <div class="mini-stat">
+                    <span>100%</span>
+                    <p>Glassmorphic</p>
+                </div>
+                <div class="mini-stat">
+                    <span>∞</span>
+                    <p>Possibilities</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="glass-footer">
+        <div class="footer-content">
+            <p>&copy; 2026 Stellar Dev Suite | Built by the Stellar Dev Team</p>
+            <div class="footer-links">
+                <a href="https://github.com/nathandev-7/github-badges-fun-1234567890" target="_blank">GitHub</a>
+                <a href="docs/DESIGN_GUIDE.md">Design Guide</a>
+                <a href="SECURITY.md">Security</a>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
