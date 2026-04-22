@@ -69,4 +69,4 @@ A professional developer's profile is judged by their **Commit History**.
 3.  **Contribute**: Open a PR to add your own UI tips. This helps you earn the **Pair Extraordinaire** badge!
 
 ---
-*Built as part of the Stellar Dev Suite. Curated by Stellar Dev Suite.*
+*Built as part of the Stellar Dev Suite. Curated by the Stellar Dev Team.*

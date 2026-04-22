@@ -4,7 +4,7 @@
 - **Name**: Stellar Dev Suite
 - **Version**: 1.0.0
 - **Status**: Development
-- **Lead Developer**: Nathan
+- **Lead Developer**: Stellar Dev Suite Team
 
 ## Automation Protocols
 - **Achievement Tracking**: Enabled

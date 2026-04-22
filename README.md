@@ -72,5 +72,5 @@ We value collaboration. Feel free to open issues or pull requests to enhance the
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Nathan</strong>
+  Built with ❤️ by <strong>Stellar Dev Suite</strong>
 </p>
