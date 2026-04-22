@@ -1,0 +1,1 @@
+# GitHub Badges Fun\n\nThis repo is for testing GitHub achievements.
