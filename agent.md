@@ -4,7 +4,7 @@
 - **Name**: Stellar Dev Suite
 - **Version**: 1.0.0
 - **Status**: Development
-- **Core Intelligence**: Advanced Agentic Coding (Antigravity)
+- **Lead Developer**: Nathan
 
 ## Automation Protocols
 - **Achievement Tracking**: Enabled
