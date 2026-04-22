@@ -82,9 +82,23 @@ header p {
     background: rgba(255, 255, 255, 0.08);
 }
 
-.badge-icon {
-    font-size: 2.5rem;
+.badge-image {
     margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge-image img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    filter: drop-shadow(0 5px 15px rgba(0,0,0,0.3));
+    transition: filter 0.3s ease;
+}
+
+.card:hover .badge-image img {
+    filter: drop-shadow(0 8px 25px rgba(0,210,255,0.4)) brightness(1.1);
 }
 
 .card h3 {

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-gold.png" width="120" alt="Pull Shark Gold">
+  <img src="assets/badges/pull-shark-gold.png" width="120" alt="Pull Shark Gold">
 </p>
 
 <h1 align="center">Stellar Dev Suite</h1>
@@ -26,14 +26,14 @@ Inspired by top-tier achievement repositories, this section highlights the miles
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-gold.png" width="100px;" alt="Pull Shark"/><br /><sub><b>Pull Shark (Gold)</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pair-extraordinaire-gold.png" width="100px;" alt="Pair Extraordinaire"/><br /><sub><b>Pair Extraordinaire</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/quickdraw-default.png" width="100px;" alt="Quickdraw"/><br /><sub><b>Quickdraw</b></sub></td>
+    <td align="center"><img src="assets/badges/pull-shark-gold.png" width="100px;" alt="Pull Shark"/><br /><sub><b>Pull Shark (Gold)</b></sub></td>
+    <td align="center"><img src="assets/badges/pair-extraordinaire-gold.png" width="100px;" alt="Pair Extraordinaire"/><br /><sub><b>Pair Extraordinaire</b></sub></td>
+    <td align="center"><img src="assets/badges/quickdraw-default.png" width="100px;" alt="Quickdraw"/><br /><sub><b>Quickdraw</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/heart-on-your-sleeve-default.png" width="100px;" alt="Heart on Sleeve"/><br /><sub><b>Heart on Sleeve</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/arctic-code-vault-contributor-default.png" width="100px;" alt="Vault Contributor"/><br /><sub><b>Legacy Vault</b></sub></td>
-    <td align="center"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="100px;" alt="Galaxy Brain"/><br /><sub><b>Galaxy Brain (Soon)</b></sub></td>
+    <td align="center"><img src="assets/badges/heart-on-your-sleeve-default.png" width="100px;" alt="Heart on Sleeve"/><br /><sub><b>Heart on Sleeve</b></sub></td>
+    <td align="center"><img src="assets/badges/arctic-code-vault-default.png" width="100px;" alt="Vault Contributor"/><br /><sub><b>Legacy Vault</b></sub></td>
+    <td align="center"><img src="assets/badges/galaxy-brain-default.png" width="100px;" alt="Galaxy Brain"/><br /><sub><b>Galaxy Brain (Soon)</b></sub></td>
   </tr>
 </table>
 
