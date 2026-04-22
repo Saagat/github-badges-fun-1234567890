@@ -43,7 +43,15 @@ Avoid "placeholder" engineering. Every element must serve a purpose.
 
 ---
 
-## 4. Professional Git Workflow
+## 4. Micro-interactions & User Delight
+The difference between a "good" site and a "premium" one is in the details.
+- **Hover Transitions**: Never let an element snap. Use `transition: all 0.3s ease-in-out`.
+- **Scale Effects**: A subtle `transform: scale(1.02)` on hover makes the interface feel alive.
+- **Color Shifts**: Change border opacity or glow intensity during interaction.
+
+---
+
+## 5. Professional Git Workflow
 A professional developer's profile is judged by their **Commit History**.
 
 - **Atomic Commits**: One feature = One commit.
@@ -61,4 +69,4 @@ A professional developer's profile is judged by their **Commit History**.
 3.  **Contribute**: Open a PR to add your own UI tips. This helps you earn the **Pair Extraordinaire** badge!
 
 ---
-*Built as part of the Stellar Dev Suite. Curated by nathandev-7.*
+*Built as part of the Stellar Dev Suite. Curated by Stellar Dev Suite.*
